@@ -1,4 +1,5 @@
 {
-    "turnon":"1",
-    "adscode":"0"
+    "turnon":"0",
+    "invisible":"1",
+    "forceinv":"0"
 }
